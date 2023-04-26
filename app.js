@@ -1,5 +1,5 @@
 const apiUrl = "https://api.openai.com/v1/chat/completions";
-const apiKey = "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";
+const apiKey = "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";
 const loader = document.querySelector(".button");
 const CodeArea = document.getElementById('chatArea')
 
